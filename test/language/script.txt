@@ -1,3 +1,0 @@
-each customer (c)
-(c) placed an order (o)
-(o) had a total value over £100.00

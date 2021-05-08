@@ -1,0 +1,1 @@
+where : (0).total_order_amount BETWEEN (1) AND (2)

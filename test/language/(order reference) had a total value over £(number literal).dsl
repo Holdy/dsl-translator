@@ -1,1 +1,0 @@
-where : (0).total_value > (1)::number

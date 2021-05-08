@@ -1,1 +1,0 @@
-join : JOIN order (1) ON (1).customer_id = (0).customer_id
